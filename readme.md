@@ -118,4 +118,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 
-- edited by Brett Cullen
+- edited by Brett Cullen on Feb 7th, 2018
